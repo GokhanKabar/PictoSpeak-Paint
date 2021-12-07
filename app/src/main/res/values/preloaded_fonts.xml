@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/crushed</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/maiden_orange</item>
+        <item>@font/ramabhadra</item>
+        <item>@font/russo_one</item>
+        <item>@font/snowburst_one</item>
+        <item>@font/stalinist_one</item>
+    </array>
+</resources>
